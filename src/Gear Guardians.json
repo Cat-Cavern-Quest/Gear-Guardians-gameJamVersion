@@ -20,7 +20,7 @@
     "templateSlug": "multiplayer-platformer-pickup",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "Wendy E borg",
+    "name": "Gear Guardians",
     "description": "A platformer game where up to 4 players work together to collect all of the coins.\n\nThis game example includes:\n-Multiplayer lobby\n-Platformer behavior\n-Rectangular movement behavior\n-Sound effects\n-Text objects\n-Timers",
     "author": "",
     "windowWidth": 1280,
