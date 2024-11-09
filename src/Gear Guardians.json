@@ -66,42 +66,6 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "assets/Knight-Idle1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Idle1.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Idle2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Idle2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Idle3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Idle3.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Idle4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Idle4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Green Button With Shadow_Hovered.png",
         "kind": "image",
         "metadata": "",
@@ -188,114 +152,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/coin1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin1.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin2.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin3.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin7.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin8.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin9.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin10.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin11.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/coin12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "coin12.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Platform_JumpThrough.png",
         "kind": "image",
         "metadata": "",
@@ -324,235 +180,10 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Knight-Roll4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Roll4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Roll5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Roll5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Roll6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Roll6.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Roll7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Roll7.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Roll8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Roll8.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run1.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run2.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run3.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run4.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run5.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run5.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run6.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run6.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run7.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run7.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run8.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run8.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run9.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run9.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run10.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run10.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run11.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run11.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run12.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run12.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run13.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run13.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run14.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run14.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run15.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run15.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Run16.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Run16.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Platform_Bridge.png",
         "kind": "image",
         "metadata": "",
         "name": "Platform_Bridge.png",
-        "smoothed": false,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Death1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Death1.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Death2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Death2.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Death3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Death3.png",
-        "smoothed": false,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Knight-Death4.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Knight-Death4.png",
         "smoothed": false,
         "userAdded": false
       },
@@ -615,15 +246,6 @@
         "name": "assets\\Door1.png",
         "smoothed": false,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/Door2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\Door2.png",
-        "smoothed": false,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -801,6 +423,233 @@
         "name": "world_tileset.png",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-idle-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-idle-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-idle-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-idle-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-jump.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-runing-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-runing-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-runing-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-runing-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-runing-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-runing-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-sleep.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-sleep.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Geralt-fall.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Geralt-fall.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-7.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/battery-8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/battery-8.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dimensional_Portal-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Dimensional_Portal-1.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dimensional_Portal-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Dimensional_Portal-2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dimensional_Portal-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Dimensional_Portal-3.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dimensional_Portal-4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Dimensional_Portal-4.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dimensional_Portal-5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Dimensional_Portal-5.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dimensional_Portal-6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Dimensional_Portal-6.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Gray.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets/Gray.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Ludum Dare 28 04.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/Ludum Dare 28 04.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Jump 1.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "assets/Jump 1.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1429,12 +1278,14 @@
           "effects": [],
           "behaviors": [
             {
+              "isFolded": true,
               "name": "MultiplayerObject",
               "type": "Multiplayer::MultiplayerObjectBehavior",
               "playerNumber": 0,
               "actionOnPlayerDisconnect": "DestroyObject"
             },
             {
+              "isFolded": true,
               "name": "Platform",
               "type": "PlatformBehavior::PlatformBehavior",
               "canBeGrabbed": false,
@@ -1442,6 +1293,7 @@
               "yGrabOffset": 0
             },
             {
+              "isFolded": true,
               "name": "PlatformerCharacterAnimator",
               "type": "PlatformerCharacterAnimator::PlatformerCharacterAnimator",
               "EnableAnimationChanges": true,
@@ -1456,6 +1308,7 @@
               "Flippable": "Flippable"
             },
             {
+              "isFolded": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "jumpSpeed": 350,
@@ -1476,6 +1329,7 @@
               "yGrabOffset": 0
             },
             {
+              "isFolded": true,
               "name": "SmoothCamera",
               "type": "SmoothCamera::SmoothCamera",
               "LeftwardSpeed": 0.9,
@@ -1539,7 +1393,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Idle1.png",
+                      "image": "assets/Geralt-idle-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1547,35 +1401,35 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Idle2.png",
+                      "image": "assets/Geralt-idle-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1583,100 +1437,28 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Idle3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
                         "x": 0,
                         "y": 0
                       },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Idle4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
@@ -1695,7 +1477,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Roll4.png",
+                      "image": "assets/Geralt-jump.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1703,172 +1485,28 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Roll5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
                         "x": 0,
                         "y": 0
                       },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Roll6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Roll7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Roll8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
@@ -1887,7 +1525,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Run1.png",
+                      "image": "assets/Geralt-runing-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1895,35 +1533,35 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Run2.png",
+                      "image": "assets/Geralt-runing-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1931,35 +1569,35 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Run3.png",
+                      "image": "assets/Geralt-runing-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1967,496 +1605,28 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
                         "x": 0,
                         "y": 0
                       },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run5.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run6.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run7.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run8.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run13.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run14.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run15.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Run16.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
@@ -2475,7 +1645,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Death1.png",
+                      "image": "assets/Geralt-sleep.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2483,136 +1653,28 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Death2.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
                         "x": 0,
                         "y": 0
                       },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Death3.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Knight-Death4.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": false,
-                        "name": "centre",
-                        "x": 16,
-                        "y": 16
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 9,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 9
-                          },
-                          {
-                            "x": 22,
-                            "y": 28
-                          },
-                          {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
@@ -2631,7 +1693,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Knight-Roll8.png",
+                      "image": "assets/Geralt-fall.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2639,28 +1701,28 @@
                         "y": 0
                       },
                       "centerPoint": {
-                        "automatic": false,
+                        "automatic": true,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 9,
-                            "y": 9
+                            "x": 10,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 9
+                            "x": 23,
+                            "y": 16
                           },
                           {
-                            "x": 22,
-                            "y": 28
+                            "x": 23,
+                            "y": 32
                           },
                           {
-                            "x": 9,
-                            "y": 28
+                            "x": 10,
+                            "y": 32
                           }
                         ]
                       ]
@@ -2893,7 +1955,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Coin",
+          "name": "Battery",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2917,7 +1979,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin1.png",
+                      "image": "assets/battery-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2934,26 +1996,26 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin2.png",
+                      "image": "assets/battery-2.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2970,26 +2032,26 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin3.png",
+                      "image": "assets/battery-3.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3006,26 +2068,26 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin4.png",
+                      "image": "assets/battery-4.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3042,26 +2104,26 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin5.png",
+                      "image": "assets/battery-5.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3078,26 +2140,26 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin6.png",
+                      "image": "assets/battery-6.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3114,26 +2176,26 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin7.png",
+                      "image": "assets/battery-7.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3150,26 +2212,26 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "coin8.png",
+                      "image": "assets/battery-8.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3186,163 +2248,19 @@
                         [
                           {
                             "x": 3,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 3
+                            "y": 0
                           },
                           {
                             "x": 13,
-                            "y": 13
+                            "y": 16
                           },
                           {
                             "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin9.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin10.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin11.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "coin12.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 3,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 3
-                          },
-                          {
-                            "x": 13,
-                            "y": 13
-                          },
-                          {
-                            "x": 3,
-                            "y": 13
+                            "y": 16
                           }
                         ]
                       ]
@@ -3578,7 +2496,7 @@
           ],
           "effects": [],
           "behaviors": [],
-          "string": "Coins left: 0",
+          "string": "Battery left: 0",
           "font": "CantoraOne-Regular.ttf",
           "textAlignment": "left",
           "characterSize": 20,
@@ -3601,7 +2519,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Coins left: 0",
+            "text": "Battery left: 0",
             "font": "CantoraOne-Regular.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -3919,11 +2837,33 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "9dd32a3c05b50959a5ff266a506ff7e4a509e8fde2f007adbfc1ef6213e8e2dd",
-          "name": "Door",
+          "name": "Portal",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
-          "effects": [],
+          "effects": [
+            {
+              "effectType": "CRT",
+              "name": "Effect",
+              "doubleParameters": {
+                "animationFrequency": 60,
+                "animationSpeed": 1,
+                "curvature": 1,
+                "lineContrast": 0.25,
+                "lineWidth": 1,
+                "noise": 0.3,
+                "noiseSize": 1,
+                "padding": 0,
+                "vignetting": 0.3,
+                "vignettingAlpha": 1,
+                "vignettingBlur": 0.3
+              },
+              "stringParameters": {},
+              "booleanParameters": {
+                "verticalLine": false
+              }
+            }
+          ],
           "behaviors": [
             {
               "name": "MultiplayerObject",
@@ -3943,7 +2883,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\Door1.png",
+                      "image": "assets/Dimensional_Portal-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3959,20 +2899,200 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 9,
+                            "y": 1
                           },
                           {
-                            "x": 20,
-                            "y": 0
+                            "x": 25,
+                            "y": 1
                           },
                           {
-                            "x": 20,
-                            "y": 24
+                            "x": 25,
+                            "y": 31
                           },
                           {
-                            "x": 0,
-                            "y": 24
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
                           }
                         ]
                       ]
@@ -3986,12 +3106,12 @@
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
+                  "looping": true,
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "assets\\Door2.png",
+                      "image": "assets/Dimensional_Portal-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4007,20 +3127,200 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 9,
+                            "y": 1
                           },
                           {
-                            "x": 20,
-                            "y": 0
+                            "x": 25,
+                            "y": 1
                           },
                           {
-                            "x": 20,
-                            "y": 24
+                            "x": 25,
+                            "y": 31
                           },
                           {
-                            "x": 0,
-                            "y": 24
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "assets/Dimensional_Portal-6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 1
+                          },
+                          {
+                            "x": 25,
+                            "y": 31
+                          },
+                          {
+                            "x": 9,
+                            "y": 31
                           }
                         ]
                       ]
@@ -4517,7 +3817,6 @@
             {
               "folded": true,
               "name": "Key",
-              "persistentUuid": "be223646-1737-4511-860e-febf3dca6d0b",
               "type": "number",
               "value": 0
             }
@@ -4539,6 +3838,17 @@
             "tileSize": 16,
             "tilesWithHitBox": "0,16,1,17,2,18,3,19,4,20,5,21,6,22,7,23,8,24,32,33,34,35,36,37,38,39,40,50,55,71,57,73"
           }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Background",
+          "texture": "assets/Gray.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -4551,7 +3861,7 @@
             "objectName": "Enemy"
           },
           {
-            "objectName": "Coin"
+            "objectName": "Battery"
           },
           {
             "objectName": "JumpThrough"
@@ -4584,7 +3894,7 @@
             "objectName": "Doorway2"
           },
           {
-            "objectName": "Door"
+            "objectName": "Portal"
           },
           {
             "objectName": "PausedGameText"
@@ -4603,6 +3913,9 @@
           },
           {
             "objectName": "Tilemap_Level"
+          },
+          {
+            "objectName": "Background"
           }
         ]
       },
@@ -4642,6 +3955,18 @@
                 "0",
                 "0",
                 "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "assets/Ludum Dare 28 04.ogg",
+                "yes",
+                "50",
+                ""
               ]
             }
           ]
@@ -5166,6 +4491,63 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsJumping"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "assets/Jump 1.wav",
+                        "",
+                        "50",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": []
             }
           ],
           "parameters": []
@@ -5864,7 +5246,7 @@
                   },
                   "parameters": [
                     "Player",
-                    "Coin",
+                    "Battery",
                     "",
                     "",
                     ""
@@ -5883,7 +5265,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "Coin",
+                    "Battery",
                     ""
                   ]
                 },
@@ -5927,7 +5309,7 @@
                     "Coin_counts",
                     "Text",
                     "=",
-                    "\"Coins Remaining: \" + ToString(SceneInstancesCount(Coin))"
+                    "\"Battery Remaining: \" + ToString(SceneInstancesCount(Battery))"
                   ]
                 }
               ]
@@ -5973,7 +5355,7 @@
                     "Coin_counts",
                     "Text",
                     "=",
-                    "\"Coins Remaining: \" + ToString(SceneInstancesCount(Coin))"
+                    "\"Battery Remaining: \" + ToString(SceneInstancesCount(Battery))"
                   ]
                 }
               ]
@@ -6128,7 +5510,7 @@
                   },
                   "parameters": [
                     "",
-                    "Coin",
+                    "Battery",
                     "<=",
                     "0"
                   ]
@@ -6173,13 +5555,13 @@
                     },
                     {
                       "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                        "value": "EffectCapability::EffectBehavior::EnableEffect"
                       },
                       "parameters": [
-                        "Door",
-                        "Animation",
-                        "=",
-                        "\"Opened\""
+                        "Portal",
+                        "Effect",
+                        "\"Effect\"",
+                        "no"
                       ]
                     },
                     {
@@ -6213,7 +5595,7 @@
                         "value": "CollisionPoint"
                       },
                       "parameters": [
-                        "Door",
+                        "Portal",
                         "Player.CenterX()",
                         "Player.CenterY()"
                       ]
@@ -6263,13 +5645,13 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                        "inverted": true,
+                        "value": "EffectCapability::EffectBehavior::IsEffectEnabled"
                       },
                       "parameters": [
-                        "Door",
-                        "Animation",
-                        "=",
-                        "\"Opened\""
+                        "Portal",
+                        "Effect",
+                        "\"Effect\""
                       ]
                     },
                     {
@@ -6364,6 +5746,55 @@
                         }
                       ]
                     }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Background",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::XOffset"
+                  },
+                  "parameters": [
+                    "Background",
+                    "+",
+                    "-1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TiledSpriteObject::YOffset"
+                  },
+                  "parameters": [
+                    "Background",
+                    "+",
+                    "-1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ResizableCapability::ResizableBehavior::SetSize"
+                  },
+                  "parameters": [
+                    "Background",
+                    "Resizable",
+                    "1280",
+                    "720"
                   ]
                 }
               ]
@@ -33272,7 +32703,7 @@
           "width": 0,
           "x": 544,
           "y": 384,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -33295,7 +32726,7 @@
           "width": 0,
           "x": 416,
           "y": 384,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33311,7 +32742,7 @@
           "width": 0,
           "x": 576,
           "y": 384,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -33334,7 +32765,7 @@
           "width": 0,
           "x": 448,
           "y": 384,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -33365,8 +32796,9 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 88,
           "keepRatio": true,
           "layer": "",
           "name": "Door",
@@ -33439,22 +32871,6 @@
           "x": 384,
           "y": 352,
           "zOrder": 9,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Coin",
-          "persistentUuid": "f8d22e40-b11a-4cb0-a0c5-3e3e3d4ea545",
-          "width": 0,
-          "x": 560,
-          "y": 304,
-          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33582,7 +32998,7 @@
           "width": 0,
           "x": 336,
           "y": 208,
-          "zOrder": 0,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [
             {
@@ -33590,6 +33006,103 @@
               "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":22,\"dimY\":14,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,22,22,22,22,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,22,22,22,22,22,22,22,22,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,22,22,22,22,22,22,22,22,22,22,22,22,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22]]}]}"
             }
           ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Portal",
+          "persistentUuid": "ea43512f-f80b-438a-9803-74353b620085",
+          "width": 0,
+          "x": 496,
+          "y": 272,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Battery",
+          "persistentUuid": "65771793-185b-43ea-a1cd-bba1bcf66bcb",
+          "width": 0,
+          "x": 384,
+          "y": 368,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Battery",
+          "persistentUuid": "6c74b9a7-f7ec-41de-9725-497763fb21d0",
+          "width": 0,
+          "x": 400,
+          "y": 336,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Battery",
+          "persistentUuid": "5fa66553-c4a1-42aa-ab95-26056a3f4643",
+          "width": 0,
+          "x": 608,
+          "y": 336,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Battery",
+          "persistentUuid": "d59cc6de-dd56-41f3-a384-e4938ec1a026",
+          "width": 0,
+          "x": 624,
+          "y": 368,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "092f2534-f869-4045-a8e7-4e29a7f9712e",
+          "width": 32,
+          "x": 0,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
           "initialVariables": []
         }
       ],
@@ -33603,7 +33116,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.0269425874981115,
+        "zoomFactor": 0.4481978045410387,
         "windowMask": false
       }
     },
@@ -33622,7 +33135,7 @@
           "width": 0,
           "x": 464,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -33645,7 +33158,7 @@
           "width": 0,
           "x": 368,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33661,7 +33174,7 @@
           "width": 0,
           "x": 400,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -33684,7 +33197,7 @@
           "width": 0,
           "x": 432,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -33719,12 +33232,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Door",
+          "name": "Portal",
           "persistentUuid": "f19be8ae-f55d-4da4-a992-04e098056f97",
           "width": 0,
           "x": 832,
-          "y": 392,
-          "zOrder": -295,
+          "y": 384,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -33735,7 +33248,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "b7797662-e52b-4d55-b379-ca59ca6de5aa",
           "width": 0,
           "x": 336,
@@ -33751,7 +33264,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "90054213-dec5-4df9-b7d6-0f3f6b1f43eb",
           "width": 0,
           "x": 880,
@@ -33991,7 +33504,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "36d79965-7705-415a-a801-e6ab4f0e9e0e",
           "width": 0,
           "x": 720,
@@ -34007,7 +33520,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "73c155a8-23bc-4f4e-b13b-c57419c490b1",
           "width": 0,
           "x": 592,
@@ -34023,7 +33536,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "996ee0ee-8c7d-4336-b894-8344ecbc7c17",
           "width": 0,
           "x": 624,
@@ -34039,7 +33552,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "1634bdef-d94d-49c5-b0d2-dd5dffc2ff52",
           "width": 0,
           "x": 656,
@@ -34055,7 +33568,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "627b29a6-5fbf-4dbf-a7e2-d965b4f00a4b",
           "width": 0,
           "x": 688,
@@ -34071,7 +33584,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "63f0c710-83a9-42d2-8b26-518a63697349",
           "width": 0,
           "x": 656,
@@ -34092,7 +33605,7 @@
           "width": 0,
           "x": 320,
           "y": 208,
-          "zOrder": 0,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [
             {
@@ -34100,6 +33613,23 @@
               "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":37,\"dimY\":14,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22],[22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22],[22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,-1,-1,-1,-1,-1,22,22],[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22]]}]}"
             }
           ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "33f35d7f-892b-4254-a956-f210e9c5dd09",
+          "width": 32,
+          "x": 0,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
           "initialVariables": []
         }
       ],
@@ -34113,7 +33643,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.9934433498259586,
+        "zoomFactor": 0.5843784410740941,
         "windowMask": false
       }
     },
@@ -34132,7 +33662,7 @@
           "width": 0,
           "x": 512,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -34155,7 +33685,7 @@
           "width": 0,
           "x": 416,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34171,7 +33701,7 @@
           "width": 0,
           "x": 448,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -34194,7 +33724,7 @@
           "width": 0,
           "x": 480,
           "y": 368,
-          "zOrder": 1,
+          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": [
@@ -34229,12 +33759,12 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Door",
+          "name": "Portal",
           "persistentUuid": "f19be8ae-f55d-4da4-a992-04e098056f97",
           "width": 0,
           "x": 784,
-          "y": 392,
-          "zOrder": -218,
+          "y": 384,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34330,7 +33860,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "ae02304f-2f03-4cf1-8a6f-7ced4091b3f7",
           "width": 0,
           "x": 704,
@@ -34346,7 +33876,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "6598af48-4038-4784-9dc7-53c435dccc50",
           "width": 0,
           "x": 352,
@@ -34362,7 +33892,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "0ab3e03c-e186-435f-8e3c-4f7f52499939",
           "width": 0,
           "x": 608,
@@ -34378,7 +33908,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "0f94b9ae-cbfb-4548-8099-b767b8851c43",
           "width": 0,
           "x": 640,
@@ -34394,7 +33924,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "9aa59625-7084-44af-ac22-1e68cee445d5",
           "width": 0,
           "x": 672,
@@ -34410,7 +33940,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "8f83501e-b2c6-4224-b988-be6b95a09011",
           "width": 0,
           "x": 672,
@@ -34426,7 +33956,7 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Coin",
+          "name": "Battery",
           "persistentUuid": "6f89f78c-382e-4cd6-9929-e1f983c0876e",
           "width": 0,
           "x": 640,
@@ -34493,7 +34023,7 @@
           "width": 0,
           "x": 624,
           "y": 368,
-          "zOrder": -171,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34509,7 +34039,7 @@
           "width": 0,
           "x": 624,
           "y": 391,
-          "zOrder": -110,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34525,7 +34055,7 @@
           "width": 0,
           "x": 736,
           "y": 320,
-          "zOrder": -156,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34541,7 +34071,7 @@
           "width": 0,
           "x": 672,
           "y": 391,
-          "zOrder": -92,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34557,7 +34087,7 @@
           "width": 0,
           "x": 736,
           "y": 343,
-          "zOrder": -194,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34573,7 +34103,7 @@
           "width": 0,
           "x": 672,
           "y": 368,
-          "zOrder": -156,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34589,7 +34119,7 @@
           "width": 0,
           "x": 736,
           "y": 391,
-          "zOrder": -199,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34605,7 +34135,7 @@
           "width": 0,
           "x": 736,
           "y": 368,
-          "zOrder": -156,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -34644,7 +34174,7 @@
           "width": 0,
           "x": 336,
           "y": 208,
-          "zOrder": 0,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [
             {
@@ -34652,6 +34182,23 @@
               "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":31,\"dimY\":14,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,22,22,22,22,22,22,22,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,-1,-1,-1,-1,-1,22],[22,22,22,22,22,-1,-1,-1,-1,-1,-1,-1,-1,-1,22,22,22,22,-1,-1,22,-1,-1,22,22,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,22],[22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22,22]]}]}"
             }
           ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Background",
+          "persistentUuid": "b7c13404-216c-4538-a872-2736ac21d404",
+          "width": 32,
+          "x": 0,
+          "y": 0,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
           "initialVariables": []
         }
       ],
@@ -34665,7 +34212,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 1.0269425874981108,
+        "zoomFactor": 0.6244537826600022,
         "windowMask": false
       }
     }
